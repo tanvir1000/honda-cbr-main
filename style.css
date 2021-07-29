@@ -37,3 +37,8 @@
   padding: 10px 40px;
 
 }
+/* picture */
+.picture{
+  filter:grayscale(1);
+  -webkit-filter: grayscale(1) ;
+}
