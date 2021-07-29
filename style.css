@@ -1,0 +1,39 @@
+*{
+  max-width: 100vw;
+}
+  .bg{
+    background-color: #264653;
+
+  }
+
+.Honda{
+      
+      color: white;
+  }
+  .clients{
+      color: #E76F51;
+  }
+  .text{
+    text-align:center;
+  }
+  .collection{
+    color:#E76F51
+
+  }
+  .filled{
+    color:goldenrod;
+    font-size: 0.8em;
+}
+.unfilled{
+    color: lightgray;
+    font-size: 0.8em;
+}
+/* button */
+.link-button{
+  text-decoration: none;
+  background-image: linear-gradient(orange, tomato);
+  border-radius: 5px;
+  font-weight: 700;
+  padding: 10px 40px;
+
+}
